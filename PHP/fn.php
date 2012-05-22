@@ -26,6 +26,10 @@ class fn{
               # INSERT INTO template_department_map(template_id,department_id) VALUES(1,2),(1,3),(2,3);
 
 	}
+	
+	public static test{
+		echo "this is a test!";
+	}
 
 
 }
