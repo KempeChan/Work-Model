@@ -4,6 +4,10 @@
      */
     class SessionHelper {
         
+		private function testSync(){
+		echo "tttttttt";
+		}
+		
         private function Start(){
             session_start();
         }
